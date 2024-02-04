@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.top{
+    
+}
+#heading{
+    height: 60px;
+    background-color: aqua;
+    background-size: cover;;
+}
+
+.top .navbar{
+    height: 30px;
+    background-color:rgba(177, 2, 2, 0.862);
+    display: flex;
+    justify-content: space-between;
+}
+
+.links{
+    
+}
